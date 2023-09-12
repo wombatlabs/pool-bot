@@ -1,4 +1,4 @@
-test This is the crypto api bot.
+This is the crypto api bot.
 The bot is written in python 3.5.
 
 
