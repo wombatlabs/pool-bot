@@ -10,7 +10,7 @@ For easy installation and isolation from the other projects, we suggest to use a
 
 ## Create a virtualenv
 
-> virtualenv .venv -p python3.5
+> virtualenv .venv -p python3
 
 ## Activate the virtualenv
 
