@@ -10,7 +10,8 @@ MODERATOR_USER_NAMES = ['username1']
 
 # The map between the coin and the API url
 COIN2URL_MAP = {
-    "ETC-SOLO": "https://example.org"
+    "COIN-SOLO": "https://domain.tld/api/pools/COIN",
+    "COIN2-SOLO": "https://domain.tld/api/pools/COIN2"
 }
 
 # The secret is a token (not the bot token though) for secure webhook connection

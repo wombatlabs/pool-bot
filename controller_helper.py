@@ -125,7 +125,7 @@ def get_wallet_from_command(text):
 
 def get_help_text():
     return """
-Hi there, open-etc-pool-friends bot.
+Hi there, this is pool bot.
 I am here to display pool stats.
 Commands are :
 /stats [coin] - displays statistics on a coin. Possible values are : etc
